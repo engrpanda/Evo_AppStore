@@ -3,7 +3,7 @@
     "name": "Mini Camera",
     "versionCode": 1,
     "versionName": "1.0.1",
-    "apkUrl": "https://raw.githubusercontent.com/engrpanda/Evo_AppStore/main/Mini%20Camera.apk",
+    "apkUrl": "https://github.com/engrpanda/Evo_AppStore/releases/download/apps/minicamera.v1.0.2.apk",
     "iconUrl": "https://raw.githubusercontent.com/engrpanda/Evo_AppStore/main/minicamera%20logo.jpg"
   },
   "com.evodesign.tictacgeo": {
@@ -112,6 +112,7 @@
     "iconUrl": "https://github.com/engrpanda/Evo_AppStore/releases/download/apps/evologo.jpg"
   }
 }
+
 
 
 
