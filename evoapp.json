@@ -104,6 +104,13 @@
     "apkUrl": "https://github.com/engrpanda/Evo_AppStore/releases/download/apps/dance_manager.v1.0.apk",
     "iconUrl": "https://github.com/engrpanda/Evo_AppStore/releases/download/apps/dancemanagerlogo.png"
   },
+    "com.ainirobot.robotos": {
+    "name": "Orionrobot sample",
+    "versionCode": 1,
+    "versionName": "1.0",
+    "apkUrl": "https://github.com/engrpanda/Evo_AppStore/releases/download/apps/orion.robot.sample.apk",
+    "iconUrl": "https://jerobotic.fr/wp-content/uploads/2025/12/cropped-jerobotic-favicon.png"
+  },
   "com.evodesign.playstore": {
     "name": "Evo App Store",
     "versionCode": 1,
