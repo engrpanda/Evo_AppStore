@@ -127,9 +127,9 @@
   },
     "com.evo.avatarscare": {
     "name": "Avatar Scare",
-    "versionCode": 2,
-    "versionName": "1.1.0",
-    "apkUrl": "https://github.com/engrpanda/Evo_AppStore/releases/download/apps/Avatar.Scare.v1.1.0.apk",
+    "versionCode": 3,
+    "versionName": "1.2.0",
+    "apkUrl": "https://github.com/engrpanda/Evo_AppStore/releases/download/apps/Avatar.Scare.v1.2.0.apk",
     "iconUrl": "https://github.com/engrpanda/Evo_AppStore/releases/download/apps/avatarscare.logo.png"
   }
 }
